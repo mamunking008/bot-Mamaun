@@ -7,7 +7,7 @@
   "notification": false,
   "approval": false,
   "saveState": true,
-  "BOTNAME": "sagor-bot",
+  "BOTNAME": "SAGOR-BOT",
   "PREFIX": "/",
   "OPERATOR": [
     "100048281103451",
