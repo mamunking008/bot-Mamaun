@@ -7,11 +7,11 @@
   "notification": false,
   "approval": false,
   "saveState": true,
-  "BOTNAME": "SAGOR-BOT",
+  "BOTNAME": "Luccha-BOT",
   "PREFIX": "/",
   "OPERATOR": [
-    "61550622844939",
-    "61550622844939"
+    "100090918740598",
+    "100090918740598"
   ],
   "ADMINBOT": [
     "100090918740598",
